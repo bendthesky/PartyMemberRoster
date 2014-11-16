@@ -1,0 +1,33 @@
+﻿body {
+    color:#161616;
+    background:url('http://fc01.deviantart.net/fs70/i/2012/324/2/a/dissidea_final_fantasy_wallpaper_by_squall_darkheart-d5lmkob.jpg') fixed center no-repeat;
+    background-size:cover;
+}
+h3 {
+    color:ghostwhite;
+    margin-top:0px;
+}
+
+h4 {
+    color:#000000;
+}
+
+#warriorDiv {
+    background-color:red;
+    opacity:0.7;
+}
+
+#archerDiv {
+    background-color:green;
+    opacity:0.7;
+}
+
+#mageDiv {
+    background-color:deepskyblue;
+    opacity:0.7;
+}
+
+#healerDiv {
+    background-color:ghostwhite;
+    opacity:0.7;
+}
